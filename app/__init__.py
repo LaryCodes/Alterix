@@ -1,1 +1,0 @@
-# Alterix Backend Application
